@@ -1,0 +1,22 @@
+{
+  "name": "alfred",
+  "version": "1.0.0",
+  "description": "Personal website for alfred",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "alfred"
+  },
+  "keywords": [
+    "data-driven"
+  ],
+  "author": "Raphael Miyoyo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2",
+    "twilio": "^5.4.0"
+  }
+}
